@@ -6,4 +6,6 @@ This is the first file in this repo.
 ## Website Content
 
 
-Slow-carb activated charcoal palo santo vape YOLO. Etsy fam master cleanse, butcher meh man bun jean shorts unicorn cronut
+Here are the files in the webiste.
+
+1. index.html
